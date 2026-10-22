@@ -19,7 +19,7 @@ Then visit `http://localhost:8000`.
 - Replace each visible `ADD PRICE` label in `index.html` with a confirmed price and currency.
 - Add the confirmed WhatsApp number and call number to `DETAILX_CONTACT` at the top of `script.js`. WhatsApp should use digits only, including the country code; the phone value can include `+`, spaces, and punctuation.
 - Replace the studio address and opening-hours placeholders in `index.html`.
-- Replace the three testimonial quote and attribution placeholders with approved, real customer feedback—or remove those cards.
+- Replace the six testimonial quote and attribution placeholders with approved, real customer feedback—or remove those cards.
 - Connect the appointment form to a form endpoint or booking service. The current form validates in the browser and displays a success message, but does not send or store submissions.
 - Review the service descriptions, package inclusions, and contact copy to make sure they match the actual business.
 
