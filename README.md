@@ -2,6 +2,8 @@
 
 A responsive, static one-page website for a premium automotive detailing studio. It uses local image assets and plain HTML, CSS, and JavaScript; no build step or third-party package is required.
 
+Google Analytics is connected in the page head with measurement ID `G-6SQTM4K1W5`.
+
 ## Preview
 
 Open `index.html` in a browser, or from this folder run:
@@ -23,7 +25,7 @@ Then visit `http://localhost:8000`.
 
 ## Deploy
 
-This repository is structured as the site root. Connect the repository to a static website host and publish the root directory. Keep `index.html`, `styles.css`, `script.js`, and the `assets` folder together. There is no build command.
+Upload this complete website folder to any static website host, or connect the repository and publish its root directory. Keep `index.html`, `styles.css`, `script.js`, and the `assets` folder together. Set `index.html` as the site entry page; there is no build command.
 
 ## Files
 
